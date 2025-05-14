@@ -1,0 +1,16 @@
+ID,FirstName,LastName,Gender,dob,Email,Phone,Department,Job,Salary,HireDate,TerminationDate
+101,Sini,Babu,F,1995-07-20,sinibabu@gmail.com,9123456789,HR,"HR Assistant",28000,2020-03-15,NULL
+102,Anu,Joseph,F,1993-05-15,anujoseph@gmail.com,9123456790,Finance,Accountant,32000,2019-06-01,NULL
+103,Deepak,Varma,M,1990-03-25,deepakvarma@gmail.com,9123456791,IT,"Software Engineer",45000,2018-11-10,NULL
+104,Reena,Kurian,F,1996-09-10,reenakurian@gmail.com,9123456792,Marketing,"Marketing Executive",30000,2021-04-05,NULL
+105,Riyas,Khan,M,1989-12-30,riyaskhan@gmail.com,9123456793,Sales,"Sales Executive",31000,2020-02-20,2023-07-01
+106,Anjali,"R Menon",F,1994-08-18,anjalimenon@gmail.com,9123456794,IT,"UI Designer",40000,2019-08-15,NULL
+107,Vishnu,Das,M,1992-11-05,vishnudas@gmail.com,9123456795,Finance,"Financial Analyst",35000,2017-12-10,NULL
+108,Lisha,Mathew,F,1991-04-22,lishamathew@gmail.com,9123456796,HR,Recruiter,29000,2022-01-05,NULL
+109,Arjun,Nair,M,1997-06-12,arjunnair@gmail.com,9123456797,IT,"Backend Developer",46000,2020-06-01,NULL
+110,Meera,Sasidharan,F,1993-10-28,meerasasi@gmail.com,9123456798,Marketing,"Content Strategist",30500,2019-05-15,NULL
+111,Sudeep,Krishna,M,1988-02-14,sudeepkrishna@gmail.com,9123456799,Sales,"Sales Manager",50000,2016-09-01,2022-12-31
+112,Gayathri,Mohan,F,1995-01-09,gayathrimohan@gmail.com,9123456800,Finance,"Payroll Officer",34000,2021-03-18,NULL
+113,Rahul,Pillai,M,1990-07-01,rahulpillai@gmail.com,9123456801,IT,"Data Analyst",43000,2020-10-01,NULL
+114,Neethu,John,F,1992-03-17,neethujohn@gmail.com,9123456802,HR,"HR Manager",38000,2018-07-07,2025-06-08
+115,Jithin,Thomas,M,1994-12-05,jithinthomas@gmail.com,9123456803,Marketing,"Social Media Manager",36000,2023-02-01,2025-06-09
